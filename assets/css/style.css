@@ -1,0 +1,66 @@
+body {
+background-image: url(http://graphicdesignjunction.com/wp-content/uploads/2011/03/background-pattern-design-31.jpg)
+
+
+}
+
+p { 
+	color: #2E8B57;
+}
+
+img {
+	height: 100px;
+	width: 100px;
+
+}
+
+#title {
+	color: #fff;
+	background-color: #D2691E;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	width: 25%;
+	text-align: center;
+
+
+}
+
+#instructions {
+	padding-top: 10px;
+	background-color: #FFE4C4;
+	width: 35%;
+	padding-bottom: 35px;
+}
+
+#random-number {
+	margin-top: 10px;
+	margin-right: 10px;
+	display: inline-block;
+	height: 115px;
+	width: 215px;
+	background-color: #2E8B57;
+}
+
+#standings {
+	margin-top: 10px;
+	display: inline-block;
+	background-color: #00FFFF;
+	width: 75px;
+	height: 115px;
+}
+
+#message {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color: #008080;
+	width: 225px;
+	height: 30px;
+}
+
+#score {
+	background-color: #008080;
+	width: 225px;
+	height: 115px;
+}
